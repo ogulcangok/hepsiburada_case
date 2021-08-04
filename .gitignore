@@ -1,0 +1,4 @@
+venv/
+POST.http
+.idea/
+__pycache__/
